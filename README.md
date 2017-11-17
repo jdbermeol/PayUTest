@@ -15,3 +15,6 @@ PayUTest.ipynb: Contains all data analysis and processing for the test.
 6. `conda env create -f environment.yml`
 7. `source activate PayUTest`
 8. `jupyter notebook`
+
+## Dataset
+[here](https://payu-my.sharepoint.com/personal/andrea_giraldo_payulatam_com/_layouts/15/guestaccess.aspx?docid=0000e917738cc4877bd6cc67f537b643c&authkey=AQc2Oc2ccjG8N4zICg2JQTE&e=65a4ed0b556c422e82e854568e73f7b2)
